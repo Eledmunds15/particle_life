@@ -23,7 +23,7 @@ def main():
     clock = pygame.time.Clock()
     running = True
 
-    i = 0
+    
 
     while running:
 
